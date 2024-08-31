@@ -4,4 +4,4 @@ seaborn
 pandas
 streamlit
 numpy
-pickle5
+joblib
