@@ -1,6 +1,6 @@
-streamlit==1.18.1
-pandas
-numpy==1.24.3
-scikit-learn==1.3.0
-joblib==1.3.1
+streamlit==1.19.0  # Latest stable version at the time
+pandas==2.1.1  # Updated version for better compatibility
+numpy==1.24.4  # Updated version to ensure compatibility
+scikit-learn==1.3.1  # Latest version compatible with current packages
+joblib==1.3.2  # Latest stable version
 
